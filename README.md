@@ -13,12 +13,12 @@ A Curated list of data science interview questions and answers
 
 
 I started an initiative on LinkedIn in which I post daily data science interview questions. For better access, the questions and answers will be updated in this repo.
-The questions can be divided into six categories: machine learning questions, deep learning questions, statistics questions, probability questions, python questions, and resume-based questions.  If you would like to participate in this questions and answers follow me on [LinkedIn](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
+The questions can be divided into six categories: machine learning questions, deep learning questions, statistics questions, probability questions, python questions, and resume-based questions.  If you would like to participate in this questions and answers follow me on [LinkedIn](https://www.linkedin.com/in/somnath-kshirasagar-b73ba2212/)
 
 
-I started an intuitive on LinkedIn in May 2022 in which I post daily data science interview questions and the answers I got on each post I summarize them and post on the next day in another post. The questions are prepared by me, in addition to others that I received from my connections on LinkedIn. You are more than welcome to send me questions on my [LinkedIn](https://www.linkedin.com/in/youssef-hosni-b2960b135/) profile or email me & at Youssef.Hosni95@outlook.com.
+I started an intuitive on LinkedIn in May 2022 in which I post daily data science interview questions and the answers I got on each post I summarize them and post on the next day in another post. The questions are prepared by me, in addition to others that I received from my connections on LinkedIn. You are more than welcome to send me questions on my [LinkedIn](https://www.linkedin.com/in/somnath-kshirasagar-b73ba2212/) profile or email me & at Youssef.somanathtk198@gmail.com
 
-The main goal of this intuitive is to revise the basics of data science, be prepared for your next interview, and know the expected questions in a data science interview. For better access, the questions and answers are gathered here in this GitHub repository and in these [medium articles](https://youssefraafat57.medium.com/list/data-science-interview-questions-6789a80bdb14). They will be updated with new questions daily.
+The main goal of this intuitive is to revise the basics of data science, be prepared for your next interview, and know the expected questions in a data science interview. For better access, the questions and answers are gathered here in this GitHub repository 
 
 The questions are divided into seven categories:
 
